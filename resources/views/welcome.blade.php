@@ -48,6 +48,7 @@
 
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <h1> BIENVENIDO AL ITSLP EL INSTITUTO</h1>
+                    <br>
                     <h1>MAMADI 4 KEITA</h1>
                 </div>
 
