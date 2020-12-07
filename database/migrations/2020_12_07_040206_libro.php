@@ -15,6 +15,7 @@ class Libro extends Migration
     {
         //
         Schema::create('libro', function($table){
+            
             $table->string('nombre');
             $table->string('autor');
         });
